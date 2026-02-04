@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Arushi 👋<br><br>🎓 B.Tech Computer Science student<br>💻 Currently learning Java and Data Structures & Algorithms<br>🌱 Exploring backend development fundamentals<br>📌 Interested in building real-world projects and improving problem-solving skills<br><br>🛠️ Tech Stack:<br>- Java<br>- HTML & CSS (beginner)<br>- Git & GitHub <br> <br>📚 Currently Working On:<br>- DSA practice in Java<br>- Small Java-based projects<br>- Improving problem-solving consistency<br><br>
+# Hi👋, I’m Arushi💫
+<br>🎓 B.Tech Computer Science student<br>💻 Currently learning Java and Data Structures & Algorithms<br>🌱 Exploring backend development fundamentals<br>📌 Interested in building real-world projects and improving problem-solving skills<br><br>🛠️ Tech Stack:<br>- Java<br>- HTML & CSS (beginner)<br>- Git & GitHub <br> <br>📚 Currently Working On:<br>- DSA practice in Java<br>- Small Java-based projects<br>- Improving problem-solving consistency<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arushi-tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact2arushi@gmail.com) 
