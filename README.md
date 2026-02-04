@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Arushi 👋
 
-<!--
-**arushi0703/arushi0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science student  
+💻 Currently learning Java and Data Structures & Algorithms  
+🌱 Exploring backend development fundamentals  
+📌 Interested in building real-world projects and improving problem-solving skills  
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
+- Java
+- HTML & CSS (beginner)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Working On:
+- DSA practice in Java
+- Small Java-based projects
+- Improving problem-solving consistency
+
+📫 Connect with me:
+- LinkedIn: https://leetcode.com/u/arushi0703/
