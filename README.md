@@ -1,25 +1,26 @@
 # 💫 About Me:
 Hi👋, I’m Arushi💫<br><br>🎓 B.Tech Computer Science student<br>💻 Currently learning Java and Data Structures & Algorithms<br>🌱 Exploring backend development fundamentals<br>📌 Interested in building real-world projects and improving problem-solving skills
 
+
 # 🛠️ Tech Stack
 
-💻 **Programming Languages**
-Java, TypeScript, JavaScript, Python, C
+💻 **Programming Languages:**
+   Java, TypeScript, JavaScript, Python, C
 
-🌐 **Frontend Development**
-HTML5, CSS3, React.js, Next.js, Tailwind CSS
+🌐 **Frontend Development:**
+   HTML5, CSS3, React.js, Next.js, Tailwind CSS
 
-🛠️ **Tools & Technologies**
-Git, GitHub, VS Code, REST APIs
+🛠️ **Tools & Technologies:**
+   Git, GitHub, VS Code, REST APIs
 
-🗄️ **Backend & Databases**
-Convex, SQL
+🗄️ **Backend & Databases:**
+   Convex, SQL
 
-🤖 **AI & Modern Development**
-Eden AI, Prompt Engineering, AI-Powered Web Applications
+🤖 **AI & Modern Development:**
+   Eden AI, Prompt Engineering, AI-Powered Web Applications
 
-
-# 📚 Currently Working On:
+   
+# 📚 Currently Working On
 - DSA practice in Java
 - Full stack projects
 - Improving problem-solving consistency<br><br>
